@@ -57,20 +57,6 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
 </div>
 
-<style>
-.tech-stack img {
-  margin-right: 12px;
-  margin-bottom: 8px;
-  transition: transform 0.25s ease, filter 0.25s ease;
-}
-
-.tech-stack img:hover {
-  transform: translateY(-4px) scale(1.15) rotate(-2deg);
-  filter: drop-shadow(0 0 8px rgba(255, 165, 0, 0.8));
-}
-</style>
-
-
 ---
 
 ## 🌍 Lass uns connecten
