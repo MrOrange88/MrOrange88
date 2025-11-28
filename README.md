@@ -36,28 +36,40 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
 ---
 
-## 📊 GitHub Stats
-
 ## 🔧 Tech Stack
 
-<div align="left">
+<div align="left" class="tech-stack">
 
-<!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
 
-<!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
 
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
 
-<!-- FileZilla -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" width="50" height="50" />
+  <!-- FileZilla -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50" />
 
 </div>
+
+<style>
+.tech-stack img {
+  margin-right: 12px;
+  margin-bottom: 8px;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.tech-stack img:hover {
+  transform: translateY(-4px) scale(1.15) rotate(-2deg);
+  filter: drop-shadow(0 0 8px rgba(255, 165, 0, 0.8));
+}
+</style>
+
 
 ---
 
