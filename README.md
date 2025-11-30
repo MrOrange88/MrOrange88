@@ -1,6 +1,6 @@
 ![Alex Creative Banner](https://img.shields.io/badge/Hey%20ich%20bin%20Alex!-%F0%9F%8C%88%20Kreativer%20Fullstack%20Dev-orange?style=for-the-badge&logoColor=white)
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=orange)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=mrorange88&style=flat-square&color=orange)
 
 # Hey, ich bin Alex 👋
 
@@ -67,7 +67,7 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
   <!-- Allgemeine Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=false&hide_title=false" 
+    src="[https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=false&hide_title=false](https://github-readme-stats-eight-theta.vercel.app/api?username=mrorange88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)" 
     alt="GitHub Stats" 
     height="160" 
   />
@@ -85,7 +85,7 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=false" 
+    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=false](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?           username=MrOrange88&layout=compact&langs_count=6&theme=gruvbox)" 
     alt="Top Languages" 
     height="160" 
   />
