@@ -1,5 +1,7 @@
 ![Alex Creative Banner](https://img.shields.io/badge/Hey%20ich%20bin%20Alex!-%F0%9F%8C%88%20Kreativer%20Fullstack%20Dev-orange?style=for-the-badge&logoColor=white)
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=orange)
+
 # Hey, ich bin Alex 👋
 
 ### 🎨 Kreativer Fullstack-Entwickler (in Ausbildung)  
@@ -54,6 +56,39 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
   <!-- FileZilla -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" alt="FileZilla" width="50" height="50" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+
+  <!-- Allgemeine Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=false&hide_title=false" 
+    alt="GitHub Stats" 
+    height="160" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=mrorange88&theme=radical&hide_border=false" 
+    alt="GitHub Streak" 
+    height="160" 
+  />
+
+</div>
+
+<div align="left">
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=false" 
+    alt="Top Languages" 
+    height="160" 
+  />
 
 </div>
 
