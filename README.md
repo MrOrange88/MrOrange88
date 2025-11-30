@@ -67,30 +67,28 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
   <!-- Allgemeine Stats -->
   <img 
-    src="[https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=false&hide_title=false](https://github-readme-stats-eight-theta.vercel.app/api?username=mrorange88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
     height="130" 
   />
 
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=mrorange88&theme=radical&hide_border=false" 
+    src="https://streak-stats.demolab.com?username=mrorange88&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
     height="130" 
   />
 
-</div>
-
-<div align="left">
-
   <!-- Top Languages -->
   <img 
-    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=false](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?           username=MrOrange88&layout=compact&langs_count=6&theme=gruvbox)" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=true" 
     alt="Top Languages" 
     height="130" 
   />
 
 </div>
+
+
 
 ---
 
