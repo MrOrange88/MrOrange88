@@ -63,20 +63,20 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="left" style="display: flex; gap: 10px; flex-wrap: nowrap;">
 
   <!-- Allgemeine Stats -->
   <img 
     src="[https://github-readme-stats.vercel.app/api?username=mrorange88&show_icons=true&theme=radical&hide_border=false&hide_title=false](https://github-readme-stats-eight-theta.vercel.app/api?username=mrorange88&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)" 
     alt="GitHub Stats" 
-    height="160" 
+    height="130" 
   />
 
   <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=mrorange88&theme=radical&hide_border=false" 
     alt="GitHub Streak" 
-    height="160" 
+    height="130" 
   />
 
 </div>
@@ -87,7 +87,7 @@ Ein interaktives Quiz, das Wissen testet und Spaß macht – natürlich mit Java
   <img 
     src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrorange88&layout=compact&langs_count=8&theme=radical&hide_border=false](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?           username=MrOrange88&layout=compact&langs_count=6&theme=gruvbox)" 
     alt="Top Languages" 
-    height="160" 
+    height="130" 
   />
 
 </div>
